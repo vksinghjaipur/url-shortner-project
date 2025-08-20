@@ -64,34 +64,36 @@ cd url-shortner-project
 composer install
 npm install
 
-3. **Create a copy of the .env file**
-cp .env.example .env
-Update the database and other credentials inside the .env file.
+3.  ### Create a copy of the .env file**
+- cp .env.example .env
+- Update the database and other credentials inside the .env file.
 
-4. **Generate application key**
-php artisan key:generate
+4.  ### Generate application key**
+- php artisan key:generate
 
-5. **Run database migrations**
-php artisan migrate
+5.  ### Run database migrations**
+- php artisan migrate
 
-6. **Run seeder for SuperAdmin**
-php artisan db:seed --class=SuperAdminSeeder
+6. ### Run seeder for SuperAdmin**
+- php artisan db:seed --class=SuperAdminSeeder
 
 7. ### SuperAdmin Credential  
 - **Email:** superadmin@urlshortner.com  
 - **Password:** 12345678
 
 
-8. **Compile frontend assets**
-npm run dev
+8. ### Compile frontend assets**
+- npm run dev
 
 
-9. **Start the Laravel development server**
-
-php artisan serve
-
+9.  ### Start the Laravel development server**
+- php artisan serve
 
 
+### 👨‍💻 Developed By
+
+**Vikash Kumar Singh**  
+📧 vksinghjaipur@gmail.com
 
 
 <p align="center">
