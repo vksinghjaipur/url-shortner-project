@@ -84,7 +84,7 @@ npm run dev
 
 
 8. **Start the Laravel development server**
-   ```bash
+bash
 php artisan serve
 
 
