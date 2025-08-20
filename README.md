@@ -56,13 +56,13 @@ This is a Laravel 11-based URL Shortener application with role-based access cont
 
 ### Steps to Run the Project Locally
 
-1. **Clone the repository**
-git clone https://github.com/vksinghjaipur/url-shortner-project.git
-cd url-shortner-project
+1. ### Clone the repository**
+- git clone https://github.com/vksinghjaipur/url-shortner-project.git
+- cd url-shortner-project
 
-2. **Install PHP and JS dependencies**
-composer install
-npm install
+2. ### Install PHP and JS dependencies**
+- composer install
+- npm install
 
 3.  ### Create a copy of the .env file**
 - cp .env.example .env
