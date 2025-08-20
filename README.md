@@ -77,9 +77,10 @@ php artisan migrate
 6. **Run seeder for SuperAdmin**
 php artisan db:seed --class=SuperAdminSeeder
 
-7. **SuperAdmin Credential**
-Email: superadmin@urlshortner.com
-Password: 12345678
+7. ### SuperAdmin Credential  
+- **Email:** superadmin@urlshortner.com  
+- **Password:** 12345678
+
 
 8. **Compile frontend assets**
 npm run dev
